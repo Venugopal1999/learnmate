@@ -1,3 +1,46 @@
+# 📚 LearnMate – AI-Powered Note Summarizer
+
+LearnMate is a modern mobile app built with **React Native (Expo + TypeScript)** that helps students and professionals **summarize handwritten or typed notes** using **GROQ's LLaMA 3 API**. It streamlines note understanding by generating simplified summaries with a clean, intuitive UI.
+
+---
+
+## ✨ Features
+
+- ⚡ **Onboarding Screens** for first-time users
+- 🔐 Login Screen with animated illustrations
+- 📤 Upload or type notes directly into the app
+- 🧠 AI Summary Generation powered by **LLaMA 3**
+- 📄 Beautiful, scrollable summary view
+- ✅ Built with **Expo Router**, **React Native**, and **TypeScript**
+
+---
+
+## 🖼️ Screenshots
+![uploadpage](https://github.com/user-attachments/assets/9d35996c-efeb-4152-9546-c239c7dacec2)
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **React Native + Expo Router**
+- **TypeScript**
+- **GROQ API (LLaMA 3)**
+- **Firebase Setup (optional, planned)**
+- **Dotenv for secure API key management**
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/Venugopal1999/learnmate.git
+cd learnmate
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).

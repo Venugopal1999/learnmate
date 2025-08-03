@@ -16,8 +16,10 @@ LearnMate is a modern mobile app built with **React Native (Expo + TypeScript)**
 ---
 
 ## 🖼️ Screenshots
-![uploadpage](https://github.com/user-attachments/assets/9d35996c-efeb-4152-9546-c239c7dacec2)
-
+![Welcome](./assets/screens/welcome.png)
+![Login](./assets/screens/login.png)
+![Upload](./assets/screens/upload.png)
+![Summary](./assets/screens/summary.png)
 
 
 ---
